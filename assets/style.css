@@ -1,8 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
 
+:root {
+    --text-color: #DBE4EF;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
+}
+
 body {
     background: url('img/bgpr-desktop.webp');
-    color: #FFFFFF;
+    color: var(--text-color);
     font-family: "Roboto Slab", serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -19,6 +25,8 @@ body {
     height: 10rem;
     flex-grow: 1;
     flex-basis: calc(33% - 3rem);
+    border-radius: 15px;
+    border: solid #180311;
 }
 
 .cartao__conteudo {
@@ -36,6 +44,14 @@ body {
     border-radius: 0.8rem;
     font-size: 1vw;
 }
+
+
+
+
+
+
+
+
 
 
 
