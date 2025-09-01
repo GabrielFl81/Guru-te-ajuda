@@ -35,6 +35,11 @@ body {
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 3rem);
+    transition: transform 300ms ease;
+}
+
+.cartao:hover {
+    transform: translateY(-5px);
 }
 
 .cartao__conteudo {
