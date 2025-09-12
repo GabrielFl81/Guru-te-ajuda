@@ -51,3 +51,21 @@ criaCartao(
     'Quem foi a criadora do rock?',
     'A criadora do Rock era Sister Rosetta Tharpe'
 )
+
+criaCartao(
+    'Música',
+    'Qual é a escala de Lá maior natural?',
+    'A escala de Dó maior natural é:<br>A-B-C#-D-E-F#-G#'
+)
+
+criaCartao(
+    'Música',
+    'Como se monta um arpejo diminuto?',
+    'Usa-se: 1, 3b e 5°'
+)
+
+criaCartao(
+    'Música geral',
+    'Como surgiu os efeitos de distorção na música?',
+    'Quando músicos usaram amplificadores quebrados e gostaram do som'
+)

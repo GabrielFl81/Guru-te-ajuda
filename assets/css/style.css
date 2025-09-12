@@ -10,7 +10,7 @@
     --card-front-color-sc: #35174b;
     --card-back-color: #E000F4;
     --card-back-color-r: #F777FE;
-    --border-color: #0e0713;
+    --border-color: #12061a;
 }
 
 body {
@@ -121,7 +121,9 @@ body {
         0px 0px 5px var(--card-back-color) inset;
 }
 
-
+.esteregg {
+    filter: invert(1);
+}
 
 footer {
     background-color: #180311;
