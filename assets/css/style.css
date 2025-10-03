@@ -112,12 +112,12 @@ body {
 }
 
 .cartao:hover .cartao__conteudo__pergunta {
-    box-shadow: 0px 0px 10px var(--border-color),
+    box-shadow: 0px 5px 10px var(--border-color),
         0px 0px 5px var(--border-color) inset;
 }
 
 .cartao:hover .cartao__conteudo__resposta {
-    box-shadow: 0px 0px 10px var(--card-back-color),
+    box-shadow: 0px 5px 10px var(--card-back-color),
         0px 0px 5px var(--card-back-color) inset;
 }
 

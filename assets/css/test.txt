@@ -1,0 +1,3 @@
+box-shadow: /* Funciona da seguinte maneira essa função cria um efeito de sombra ao redor do conteûdo escolhido
+    Funciona da seguinte maneira 0px<valor horizontal> 0px<valor vartical> 0px<raio de desfoque> 0px<raio de expalhamento>
+    color<valor da cor> */;
